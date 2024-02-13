@@ -230,6 +230,116 @@ const projects = [
     live_link: "https://react-redux-addtocart.netlify.app/",
     source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
   },
+  {
+    name: "CART React-redux toolkit",
+    description:
+      "React redux toolkit website cart application",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: addToCart,
+    live_link: "https://react-redux-addtocart.netlify.app/",
+    source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
+  },
+  {
+    name: "CART React-redux toolkit",
+    description:
+      "React redux toolkit website cart application",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: addToCart,
+    live_link: "https://react-redux-addtocart.netlify.app/",
+    source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
+  },
+  {
+    name: "CART React-redux toolkit",
+    description:
+      "React redux toolkit website cart application",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: addToCart,
+    live_link: "https://react-redux-addtocart.netlify.app/",
+    source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
+  },
+  {
+    name: "CART React-redux toolkit",
+    description:
+      "React redux toolkit website cart application",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: addToCart,
+    live_link: "https://react-redux-addtocart.netlify.app/",
+    source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
+  },
+  {
+    name: "CART React-redux toolkit",
+    description:
+      "React redux toolkit website cart application",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: addToCart,
+    live_link: "https://react-redux-addtocart.netlify.app/",
+    source_code_link: "https://github.com/dasariabhiram/addtocart-react-redux",
+  },
 
 ];
 

@@ -87,8 +87,13 @@ const Works = () => {
           links to code repositories and live demos in it. It reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively.
+          <h3 style={{ color: 'red' }}>click on the image to view live demo</h3>
+
         </motion.p>
+        
       </div>
+      
+      
 
       <div className='mt-20 flex flex-wrap gap-7'>
         {projects.map((project, index) => (
