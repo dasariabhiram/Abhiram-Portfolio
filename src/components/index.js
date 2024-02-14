@@ -1,4 +1,4 @@
-import { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas } from './canvas';
+import { EarthCanvas, BallCanvas, StarsCanvas } from './canvas';
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
@@ -9,12 +9,14 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import Skillset from "./Skillset";
 
 
 export {
   Hero,
   Navbar,
   About,
+  Skillset,
   Tech,
   Experience,
   Works,
@@ -23,7 +25,6 @@ export {
   CanvasLoader,
   EarthCanvas, 
   BallCanvas, 
-  ComputersCanvas, 
   StarsCanvas,
   Footer
 };
