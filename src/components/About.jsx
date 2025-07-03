@@ -1,12 +1,11 @@
 import React from "react";
-//import Tilt from "react-tilt";
+// import Tilt from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
-
 
 const About = () => {
   return (
@@ -20,10 +19,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        
-        Hello! I'm  a passionate software engineer with expertise in javascript and its frameworks.  I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems and crafting seamless digital experiences. I'm dedicated to pushing boundaries in the tech world. Let's work together to bring your ideas to life!
+        Hello! I'm a passionate DevOps engineer with hands-on experience in building
+        and maintaining scalable CI/CD pipelines, automating infrastructure with tools
+        like Terraform and Ansible, and managing containerized applications using
+        Docker and Kubernetes. I thrive in cross-functional teams, helping developers
+        ship faster with confidence. From cloud deployments (AWS) to monitoring
+        and logging (Prometheus, Grafana), I bring a full-stack mindset to 
+        operations. Let’s collaborate to make your software delivery faster, 
+        safer, and smarter!
       </motion.p>
 
       {/* <div className='mt-20 flex flex-wrap gap-10'>
